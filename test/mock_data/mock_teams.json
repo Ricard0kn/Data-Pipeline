@@ -1,0 +1,14 @@
+[
+    {
+      "team": {
+        "id": 33,
+        "name": "Manchester United"
+      }
+    },
+    {
+      "team": {
+        "id": 45,
+        "name": "Liverpool"
+      }
+    }
+  ]

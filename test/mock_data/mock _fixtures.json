@@ -1,0 +1,26 @@
+[
+    {
+      "fixture": {
+        "id": 12345,
+        "date": "2024-01-01T15:00:00Z",
+        "venue": "Old Trafford"
+      },
+      "teams": {
+        "home": {
+          "id": 33,
+          "name": "Manchester United",
+          "winner": true
+        },
+        "away": {
+          "id": 45,
+          "name": "Liverpool",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 1
+      }
+    }
+  ]
+  
